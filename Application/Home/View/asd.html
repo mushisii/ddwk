@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<style type="text/css">
+</style>
+</head>
+<body>
+<!--startprint-->
+<table width="850px" border="1" align="center" cellspacing="0" bordercolor="#000000" style="WORD-BREAK:break-all;WORD-WRAP:break-word;border-collapse:collapse" >
+<tr>
+<td align="center" valign="middle">客户ID</td><td align="center" valign="middle">客户名称</td><td align="center" valign="middle">地址</td><td align="center" valign="middle">区域</td><td align="center" valign="middle">联系人</td><td align="center" valign="middle">客服人员</td><td align="center" valign="middle">违规次数</td><td align="center" valign="middle">明细</td>
+<volist name='arr' id='vo'>
+<tr>
+<td align="center" valign="middle">{$vo.id}</td><td align="center" valign="middle">{$vo.name}</td><td align="center" valign="middle">{$vo.address}</td><td align="center" valign="middle">{$vo.region}</td><td align="center" valign="middle">{$vo.linkman}</td><td align="center" valign="middle">{$vo.emname}</td><td align="center" valign="middle">{$vo.count}</td>
+<td align="center" valign="middle">
+<table>
+<foreach name='{$vo.c}' id='v'>
+<tr><td>{$v.pdate}</td><td><img src='{$v.cpic}'></td></tr>
+</foreach>
+</table>
+</td>
+</tr>
+</volist>
+</tr>
+</table>
+<script>
+    function doPrint() {  
+        // 获得body的html  
+        bdhtml=window.document.body.innerHTML;  
+        // 打印开始的标志  
+        sprnstr="<!--startprint-->";  
+        // 打印结束的标志  
+        eprnstr="<!--endprint-->";  
+        // 从打印开始的位置截取到末尾  
+        prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);  
+        // 从开始截取到打印结束的位置  
+        prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));  
+        // 替换html  
+        window.document.body.innerHTML=prnhtml;  
+        // 打印  
+        window.print();  
+    } 
+</script>
+</body>
+</html>

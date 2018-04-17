@@ -1,0 +1,50 @@
+[ 2018-04-10T13:14:28+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.037232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.053316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.053444s ]
+INFO: [ test ] --START--
+
+[ 2018-04-10T13:14:29+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001240s ]
+INFO: [ test ] --START--
+
+[ 2018-04-10T13:14:57+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001443s ]
+INFO: [ test ] --START--
+
+[ 2018-04-10T13:18:39+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+INFO: [ test ] --START--
+
+[ 2018-04-10T13:19:06+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+INFO: [ test ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.349316s ]
+INFO: [ test ] --END-- [ RunTime:0.349377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.114450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.114512s ]
+

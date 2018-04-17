@@ -1,0 +1,369 @@
+[ 2018-04-08T10:04:40+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.047506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.074558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.074675s ]
+
+[ 2018-04-08T10:05:02+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001141s ]
+
+[ 2018-04-08T10:05:07+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+INFO: [ action_begin ] --START--
+
+[ 2018-04-08T10:06:07+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+INFO: [ action_begin ] --START--
+
+[ 2018-04-08T10:06:33+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+INFO: [ action_begin ] --START--
+NOTIC: [8] Undefined variable: arg D:\xampp\htdocs\thinkphp3\Application\Home\Behaviors\testBehavior.class.php 第 5 行.
+NOTIC: [8] Undefined variable: arg D:\xampp\htdocs\thinkphp3\Application\Home\Behaviors\testBehavior.class.php 第 5 行.
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.039905s ]
+
+[ 2018-04-08T10:06:46+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+
+[ 2018-04-08T10:06:50+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+
+[ 2018-04-08T10:06:50+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+
+[ 2018-04-08T10:06:50+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-04-08T10:06:51+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+
+[ 2018-04-08T10:06:51+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001751s ]
+
+[ 2018-04-08T10:06:55+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001501s ]
+INFO: [ action_begin ] --START--
+NOTIC: [8] Undefined variable: arg D:\xampp\htdocs\thinkphp3\Application\Home\Behaviors\testBehavior.class.php 第 5 行.
+NOTIC: [8] Undefined variable: arg D:\xampp\htdocs\thinkphp3\Application\Home\Behaviors\testBehavior.class.php 第 5 行.
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000521s ]
+
+[ 2018-04-08T10:08:39+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001171s ]
+INFO: [ action_begin ] --START--
+NOTIC: [8] Undefined variable: arg D:\xampp\htdocs\thinkphp3\Application\Home\Behaviors\testBehavior.class.php 第 5 行.
+NOTIC: [8] Undefined variable: arg D:\xampp\htdocs\thinkphp3\Application\Home\Behaviors\testBehavior.class.php 第 5 行.
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001526s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.001654s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.064492s ]
+INFO: [ app_end ] --END-- [ RunTime:0.064739s ]
+
+[ 2018-04-08T10:08:55+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001417s ]
+INFO: [ action_begin ] --START--
+NOTIC: [8] Undefined variable: arg D:\xampp\htdocs\thinkphp3\Application\Home\Behaviors\testBehavior.class.php 第 5 行.
+NOTIC: [8] Undefined variable: arg D:\xampp\htdocs\thinkphp3\Application\Home\Behaviors\testBehavior.class.php 第 5 行.
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000781s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001696s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002020s ]
+
+[ 2018-04-08T10:08:58+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+INFO: [ action_begin ] --START--
+NOTIC: [8] Undefined variable: arg D:\xampp\htdocs\thinkphp3\Application\Home\Behaviors\testBehavior.class.php 第 5 行.
+NOTIC: [8] Undefined variable: arg D:\xampp\htdocs\thinkphp3\Application\Home\Behaviors\testBehavior.class.php 第 5 行.
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000587s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001900s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002102s ]
+
+[ 2018-04-08T10:09:11+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000942s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001829s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002151s ]
+
+[ 2018-04-08T10:09:18+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2018-04-08T10:09:25+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001685s ]
+
+[ 2018-04-08T10:09:45+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+
+[ 2018-04-08T10:10:19+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+
+[ 2018-04-08T10:10:29+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001798s ]
+
+[ 2018-04-08T10:11:04+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+
+[ 2018-04-08T10:11:09+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001096s ]
+
+[ 2018-04-08T10:11:10+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001222s ]
+
+[ 2018-04-08T10:11:10+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+
+[ 2018-04-08T10:11:16+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000979s ]
+
+[ 2018-04-08T10:27:32+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+INFO: [ test ] --START--
+
+[ 2018-04-08T10:28:18+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001929s ]
+INFO: [ test ] --START--
+NOTIC: [8] Undefined variable: arg D:\xampp\htdocs\thinkphp3\Application\Home\Behaviors\testBehavior.class.php 第 5 行.
+NOTIC: [8] Undefined variable: arg D:\xampp\htdocs\thinkphp3\Application\Home\Behaviors\testBehavior.class.php 第 5 行.
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.000985s ]
+
+[ 2018-04-08T10:28:33+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+INFO: [ test ] --START--
+NOTIC: [8] Undefined variable: arg D:\xampp\htdocs\thinkphp3\Application\Home\Behaviors\testBehavior.class.php 第 5 行.
+NOTIC: [8] Undefined variable: arg D:\xampp\htdocs\thinkphp3\Application\Home\Behaviors\testBehavior.class.php 第 5 行.
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.001913s ]
+INFO: [ test ] --END-- [ RunTime:0.002113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000888s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000952s ]
+
+[ 2018-04-08T10:28:57+08:00 ] ::1 /thinkphp3/index.php/index/kkk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001736s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001752s ]
+
+[ 2018-04-08T10:29:16+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001585s ]
+
+[ 2018-04-08T10:29:47+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+
+[ 2018-04-08T10:31:00+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002590s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001764s ]
+INFO: [ test ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.002263s ]
+INFO: [ test ] --END-- [ RunTime:0.002512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001150s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001222s ]
+
+[ 2018-04-08T10:31:22+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000754s ]
+
+[ 2018-04-08T10:42:18+08:00 ] ::1 /thinkphp3/index.php/index/bbb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001333s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000987s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001064s ]
+
+[ 2018-04-08T14:52:04+08:00 ] ::1 /thinkphp3/index.php/index/jjj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.029033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029146s ]
+INFO: [ test ] --START--
+INFO: Run Home\Behaviors\testBehavior [ RunTime:0.018320s ]
+INFO: Run Home\Behaviors\test1Behavior [ RunTime:0.000358s ]
+INFO: [ test ] --END-- [ RunTime:0.018776s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015491s ]
+
