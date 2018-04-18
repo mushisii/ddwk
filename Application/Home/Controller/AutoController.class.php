@@ -12,4 +12,7 @@ class AutoController extends Controller {
 	public function aaa(){
 		echo 1;
 	}
+	public function bbb(){
+		echo 2;
+	}
 }
