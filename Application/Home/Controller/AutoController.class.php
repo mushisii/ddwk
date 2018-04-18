@@ -9,4 +9,7 @@ class AutoController extends Controller {
 		$config=C('CACHE_OPTION');
 		S($config);
 	}
+	public function aaa(){
+		echo 1;
+	}
 }
